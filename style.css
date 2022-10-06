@@ -56,7 +56,7 @@ body.demos .container-fluid {
 }
 
 a {
-    color: #1f1f1f;
+    color: #180538;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -78,7 +78,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: 120% !important;
-    color: #1f1f1f;
+    color: #06030f7e;
     margin: 0
 }
 
@@ -120,7 +120,7 @@ h6 a {
 }
 
 a {
-    color: #1f1f1f;
+    color: #240f81;
     text-decoration: none;
     outline: none;
 }
@@ -318,14 +318,14 @@ a img.aligncenter {
 	z-index: 3;
 }
 .header_style_01 .header-nav{
-	background: #ffffff;
+	background: #f9f9fa;
 }
 .header-nav .navbar-toggler span {
-  background: #ffffff;
+  background: #270979;
 }
 
 .header-nav .navbar-brand {
-	color: #111111;
+	color: #07021f;
 	font-weight: 800;
 	position: relative;
 	font-size: 23px;
@@ -345,22 +345,22 @@ a img.aligncenter {
 	padding: 5px 20px;
 	font-size: 18px;
 	border: 1px solid #ffffff;
-	color: #ffffff;
-	background-color: rgb(99, 26, 26);
+	color: #0b032b;
+	background-color: rgb(18, 167, 204);
 	line-height: 25px;
 	float: right;
 	font-weight: 500;
 }
 
 .right-btn a:hover{
-	background-color: rgb(99, 26, 26);
+	background-color: rgb(25, 6, 70);
 	color: #ffffff;
-	border: 1px solid rgb(99, 26, 26);
+	border: 1px solid rgb(13, 2, 37);
 }
 
 /*Navbar Toogle*/
 .navbar-toggler {
-	background: rgb(99, 26, 26);
+	background: rgb(26, 18, 146);
 	border: none;
 	padding: 10px 6px;
 	outline: none !important;
@@ -386,16 +386,16 @@ a img.aligncenter {
 
 .navbar-expand-lg .navbar-nav .nav-link:hover{
 	background: none;
-	color:rgb(99, 26, 26);
+	color:rgb(20, 58, 94);
 	border-radius: 0px;
-	border-bottom: 3px solid rgb(99, 26, 26);
+	border-bottom: 3px solid rgb(36, 11, 179);
 }
 
 .navbar-expand-lg .navbar-nav .nav-link.active{
 	background: none;
-	color: rgb(99, 26, 26);
+	color: rgb(57, 29, 214);
 	border-radius: 0px;
-	border-bottom: 3px solid rgb(99, 26, 26);
+	border-bottom: 3px solid rgb(57, 92, 207);
 }
 
 .header_style_01 .navbar-brand {
@@ -405,7 +405,7 @@ a img.aligncenter {
 
 .header_style_01 .navbar-default .navbar-nav > li > a {
     border-radius: 0;
-    color: #222222;
+    color: #200a1d;
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
@@ -419,7 +419,7 @@ a img.aligncenter {
 
 .header_style_01 .navbar-default .navbar-nav > li:hover a,
 .header_style_01 .navbar-default .navbar-nav > li:focus a {
-    color: rgb(99, 26, 26);
+    color: rgb(41, 10, 126);
 }
 
 .header_style_01 .navbar-right > li {
@@ -449,7 +449,7 @@ li.social-links a {
 }
 
 li.social-links a:hover {
-	color: rgb(99, 26, 26);
+	color: rgb(53, 10, 172);
 }
 
 .header_style_01.fixed-menu{
@@ -517,7 +517,7 @@ body.app_version .header_style_01.fixed-menu{
 -------------------------------------------------------------------*/
 
 .top-banner{
-	background: url(uploads/bg-img.jpg) bottom center no-repeat rgb(99, 26, 26);
+	background: url(uploads/bg-img.jpg) bottom center no-repeat rgb(29, 4, 119);
 	height: 100%;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -651,7 +651,7 @@ body.app_version .header_style_01.fixed-menu{
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgb(99, 26, 26);
+    background: rgba(28, 6, 88, 0.863);
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
     -webkit-transform-origin: 0 50%;
@@ -672,8 +672,8 @@ body.app_version .header_style_01.fixed-menu{
 }
 
 .cd-hero__btn:hover{
-	color: #ffffff;
-    background-color: rgb(99, 26, 26) !important;
+	color: #2e0cc5;
+    background-color: rgb(19, 139, 187) !important;
 }
 
 .js-cd-slide::before{
@@ -681,7 +681,7 @@ body.app_version .header_style_01.fixed-menu{
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: rgba(230,81,0,0.25);
+	background: rgba(10, 4, 1, 0.25);
 	left: 0px;
 	right: 0px;
 	top: 0px;
@@ -710,7 +710,7 @@ body.app_version .header_style_01.fixed-menu{
 	height: 90px;
 	text-align: center;
 	line-height: 90px;
-	background: rgb(99, 26, 26);
+	background: rgb(214, 223, 224);
 	box-shadow: inset 0 0 0 10px rgba(51,51,51,0.6), 0 1px 2px rgba(0,0,0,0.1);
 	-webkit-transition: all 0.4s ease-in-out;
 	-moz-transition: all 0.4s ease-in-out;
