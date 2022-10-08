@@ -318,10 +318,10 @@ a img.aligncenter {
 	z-index: 3;
 }
 .header_style_01 .header-nav{
-	background: #0e0e75;
+	background: #f3f3f5;
 }
 .header-nav .navbar-toggler span {
-  background: #270979;
+  background: #f1f1f3;
 }
 
 .header-nav .navbar-brand {
@@ -405,7 +405,7 @@ a img.aligncenter {
 
 .header_style_01 .navbar-default .navbar-nav > li > a {
     border-radius: 0;
-    color: #381694;
+    color: #f9f8fc;
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
@@ -449,7 +449,7 @@ li.social-links a {
 }
 
 li.social-links a:hover {
-	color: rgb(53, 10, 172);
+	color: rgb(44, 20, 107);
 }
 
 .header_style_01.fixed-menu{
@@ -552,7 +552,7 @@ body.app_version .header_style_01.fixed-menu{
 }
 
 .section.wb {
-    background-color: #111113;
+    background-color: rgb(57, 57, 168);
 }
 
 .section.lb {
@@ -748,6 +748,10 @@ body.app_version .header_style_01.fixed-menu{
 .port-item{
     position: relative;
 }
+.port-item h3{
+    font-size: 22px;
+    color: #111113;
+}
 .port-item img{
     border-radius: 20px;
     border: #111113;
@@ -755,19 +759,22 @@ body.app_version .header_style_01.fixed-menu{
     height: 300px;
     width: 100%;
 }
-.port-item .port-hover{
+/* .port-item .port-hover{
     width: 100%;
     background-color: #111113;
     position: absolute;
     height: 100%;
+    display: flex;
+    flex-direction: column-reverse; */
+
     
-}
 .box{
     background-color: #180538;
 }
 .section{
     background-color: #21759b;
 }
+
 
 /*------------------------------------------------------------------
     CONTACT
@@ -925,14 +932,14 @@ body.app_version .bootstrap-select .btn-light:hover{
 }
 
 .tooltip-inner {
-    background: rgb(99, 26, 26); 
+    background: rgb(43, 13, 155); 
     color: #fff;
 }
 .tooltip.bs-tooltip-auto[x-placement^=bottom] .arrow::before, .tooltip.bs-tooltip-bottom .arrow::before {
     margin-top: -3px;
     content: "";
     border-width: 5px 5px 5px 0;
-    border-bottom-color: rgb(99, 26, 26);
+    border-bottom-color: rgb(43, 12, 100);
 }
 
 .get-btn{
@@ -991,8 +998,8 @@ body.app_version .bootstrap-select .btn-light:hover{
 .section-title-text-center p{
     font-size: 16px; 
 	font-weight: 300;
-    color: #212121;
-    background-color: #580af5;
+    color: black;
+    background-color: #e5e1ee;
 }
 .about-left h2{
     font-size: 22px;
@@ -1003,8 +1010,8 @@ body.app_version .bootstrap-select .btn-light:hover{
 .about-left p{
     font-size: 16px; 
 	font-weight: 300;
-    color: #212121;
-    background-color: #580af5;
+    color: black;
+    background-color: #e5e1ee;
 }
 
 .about-right h2{
@@ -1016,8 +1023,8 @@ body.app_version .bootstrap-select .btn-light:hover{
 .about-right p{
 	font-size: 16px; 
 	font-weight: 300;
-    color: #212121;
-    background-color: #580af5;
+    color: black;
+    background-color: #e5e1ee;
 }
 
 

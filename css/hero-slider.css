@@ -180,21 +180,25 @@ Hero Slider - by CodyHouse.co
 
 .cd-hero__slide:first-of-type {
   background-color: #2a00e652;
-  background: linear-gradient(to right,rgb(17, 13, 70), rgb(14, 4, 31) );
+  background: linear-gradient(to right,rgb(31, 23, 187), rgb(44, 7, 109) );
   /* background-image: url(../uploads/slider-01.jpg); */
 }
 
 .cd-hero__slide:nth-of-type(2) {
-  background-color: #E65100;
+  background-color: #110535;
   background-image: url(../uploads/slider-02.jpg);
 }
 
 .cd-hero__slide:nth-of-type(3) {
-  background-color: #E65100;
+  background-color: #110535;
   background-image: url(../uploads/slider-03.jpg);
+  color: #110535;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-size: 20px;
+  
 }
 
-.cd-hero__slide:nth-of-type(4) {
+/* .cd-hero__slide:nth-of-type(4) {
   background-color: #E65100;
   background-image: url(../uploads/slider-04.jpg);
 }
@@ -202,7 +206,7 @@ Hero Slider - by CodyHouse.co
 .cd-hero__slide:nth-of-type(5) {
   background-color: #E65100;
   background-image: url(../uploads/slider-05.jpg);
-}
+} */
 
 .cd-hero__content.cd-hero__content--full-width,
 .cd-hero__content.cd-hero__content--half-width {
