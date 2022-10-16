@@ -1,33 +1,30 @@
 ## Welcome! 👋
 
-To do this challenge, you need a basic understanding of HTML, CSS and Bootstrap.
+This is my Final Project For cohort4 in HerTechTrail.This is a portfolio project.
 
 ## The challenge
 
-Your challenge is to build on this portolio template and get it looking as you desire.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+The challenge is to create a responsive Portfolio Page that can adjust to any media screen using the template given to us. 
 
-## Your users should be able to:
+## About My Project
 
-View the optimal layout for the site depending on their device's screen size
-See hover states for all interactive elements on the page
-Where to find everything
+This is a portfolio webpage created using the template given to us with the help of HTML,CSS,Bootstrap,Javascript and PHP on Visualstudio code.The portfolio webpage is rsponsive and can adjust to any media screen size.
+The template was given to us by our instructor.
 
-You will find all the required assets in the /images folder. The assets are already optimized.
+## Building My project
 
-## Building your project
+We were asked to fork the project from our instructor's github account to ours and then clone to our local device and create our portfolio webpage to our desired look before pushing it back.
+I used the guidelines and assets given to us to create my portfolio project, then i updated my readme file. Finally i initalized my project,added my new files,committed my changes, then pushed the project to my github from gitbash.
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+## Deploying My project
 
-1. Initialize your project as a public repository on GitHub. This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, have a read through of this Try Git resource.
-2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using netlify.
+I deployed my project using github and netify.
 
-## Deploying your project
+## References
 
-As mentioned above, there are a number of ways to host your project for free. We recommend using netflify as it's an amazing service and extremely simple to get set up with.
+I made use of Google,the template given to us,and the classes video.
 
-3. Sign up to netlify and go through the onboarding flow, ensuring your GitHub account is connected by using their netlify for GitHub integration.
-4. Connect your project to netlify from the "Import project" page, using the "From Git Repository" button and selecting the project you want to deploy.
-   Once connected, every time you git push, netlify will create a new deployment and the deployment URL will be shown on your Dashboard.
+## Conclusion 
 
-**Have fun building!** 🚀
+Despite the fact that this project was kind of tough and complicated at some point,it was also one of interesting and best project ever.
+

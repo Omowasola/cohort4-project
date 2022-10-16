@@ -22,7 +22,7 @@
 -------------------------------------------------------------------*/
 
 body {
-    color: #999;
+    color: whitesmoke;
     font-size: 15px;
     font-family: 'Josefin Sans', sans-serif;
     line-height: 1.80857;
@@ -325,7 +325,7 @@ a img.aligncenter {
 }
 
 .header-nav .navbar-brand {
-	color: #7a70aa;
+	color: #04020e;
 	font-weight: 800;
 	position: relative;
 	font-size: 23px;
@@ -552,12 +552,12 @@ body.app_version .header_style_01.fixed-menu{
 }
 
 .section.wb {
-    background-color: rgb(57, 57, 168);
+    background: linear-gradient(to left, rgb(31, 23, 187), rgb(44, 7, 109));
 }
 
 .section.lb {
-    background-color: #161718;
-    color: #111113;
+    background-color: black;
+    color: whitesmoke;
 }
 
 .section.db {
@@ -744,13 +744,15 @@ body.app_version .header_style_01.fixed-menu{
     grid-gap: 3px;
     margin-top: 3px;
     margin-left: 3px;
+    padding-bottom: 15px;
 }
 .port-item{
     position: relative;
 }
 .port-item h3{
     font-size: 22px;
-    color: #111113;
+    color: black;
+    padding-top: 30px;
 }
 .port-item img{
     border-radius: 20px;
@@ -769,10 +771,15 @@ body.app_version .header_style_01.fixed-menu{
 
     
 .box{
-    background-color: #180538;
+    background-color: white;
+    
+}
+.box p{
+    color: #111113;
+    font-size: 20px;
 }
 .section{
-    background-color: #21759b;
+    background:linear-gradient(to right,rgb(31, 23, 187), rgb(44, 7, 109));
 }
 
 
@@ -903,7 +910,8 @@ select.mobile-device {
 }
 
 #contact {
-    background: url(images/bg.png) no-repeat center center #333333;
+    /* background: url(images/bg.png) no-repeat center center blanchedalmond; */
+    background:linear-gradient(to right,rgb(31, 23, 187), rgb(44, 7, 109));
 }
 
 .pdi{
@@ -991,40 +999,40 @@ body.app_version .bootstrap-select .btn-light:hover{
 .section-title-text-center h2{
     font-size: 22px;
 	font-weight: 350px;
-    color: #270979;
-    background-color: #a785e9;
+    color: blanchedalmond;
+    background-color: black;
 
 }
 .section-title-text-center p{
     font-size: 16px; 
 	font-weight: 300;
     color: black;
-    background-color: #e5e1ee;
+    background-color: blanchedalmond;
 }
 .about-left h2{
     font-size: 22px;
 	font-weight: 350px;
-    color: #270979;
-    background-color: #a785e9;
+    color: blanchedalmond;
+    background-color: black;
 }
 .about-left p{
     font-size: 16px; 
 	font-weight: 300;
     color: black;
-    background-color: #e5e1ee;
+    background-color: blanchedalmond;
 }
 
 .about-right h2{
 	font-size: 22px;
 	font-weight: 350px;
-    color: #270979;
-    background-color: #a785e9;
+    color: blanchedalmond;
+    background-color: black;
 }
 .about-right p{
 	font-size: 16px; 
 	font-weight: 300;
     color: black;
-    background-color: #e5e1ee;
+    background-color: blanchedalmond;
 }
 
 

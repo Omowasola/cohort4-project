@@ -182,11 +182,12 @@ Hero Slider - by CodyHouse.co
   background-color: #2a00e652;
   background: linear-gradient(to right,rgb(31, 23, 187), rgb(44, 7, 109) );
   /* background-image: url(../uploads/slider-01.jpg); */
-}
+} 
 
 .cd-hero__slide:nth-of-type(2) {
   background-color: #110535;
-  background-image: url(../uploads/slider-02.jpg);
+  background: linear-gradient(to left,rgb(31, 23, 187), rgb(44, 7, 109) );
+  /* background-image: url(../uploads/slider-02.jpg); */
 }
 
 .cd-hero__slide:nth-of-type(3) {
